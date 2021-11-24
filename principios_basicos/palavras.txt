@@ -1,0 +1,14 @@
+banana
+melancia
+morango
+maçã
+jabuticaba
+manga
+amora
+limão
+laranja
+pera
+uva
+caqui
+cereja
+pêssego
